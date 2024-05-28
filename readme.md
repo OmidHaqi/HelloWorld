@@ -1,4 +1,4 @@
-# Hello World by Caesar Cipher Encryption
+# Hello World by Caesar Cipher
 
 The Caesar Cipher is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter a fixed number of positions down the alphabet. The method is named after Julius Caesar, who used it in his private correspondence.
 
